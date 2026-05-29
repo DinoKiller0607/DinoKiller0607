@@ -1,8 +1,2 @@
 ## Hi there, this is Dino Killer.
-🤗 My real name is Subhodeep, a student of NIT Rourkela, and I come from India.
-🌱 I’m currently learning Data Structures and Algorithms, C++, and Web Development.
-👯 I’m looking to collaborate on Web Development projects.
-🤔 I’m looking for help with DSA.
-📫 How to reach me: You can check out my linkedin profile.
-😄 Pronouns: He/Him/them
-⚡ Fun fact: I play violin!
+I am a sophomore at NIT Rourkela, India. I am currently pursuing my bachelor degree on ELectronics and Communication systems. My main areas of interest are: ML/DL research, computer vision, web development, backend engineering. Other than academics and programming, I play violin, listen to classical music, and play video games. 
